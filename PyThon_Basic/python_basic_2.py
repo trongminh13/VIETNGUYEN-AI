@@ -1,6 +1,6 @@
 
 a = 4
-if a > 33:
+if a > 3:
     b = True
 
 a =4
